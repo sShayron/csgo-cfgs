@@ -5,4 +5,4 @@ Launch options:
 ```
 
 ![csgo video settings](https://github.com/sShayron/csgo-cfgs/blob/master/csgo-video-settings.jpg)
-![Nvidia settings](https://github.com/sShayron/csgo-cfgs/blob/master/nvidia-settings.jpg)
+![Nvidia settings](https://github.com/sShayron/csgo-cfgs/blob/master/nvidia-settings-2.jpg)
